@@ -101,8 +101,9 @@ cp config.example.json config.json
 ### 5. CortexAPI Anahtarı
 
 1. [CortexAI](https://cortexai.io/) adresine kayıt olun
-2. API anahtarınızı alın
-3. `config.json` dosyasına ekleyin
+2. Enterprise Plan Satın Alın
+3. API anahtarınızı alın
+4. `config.json` dosyasına ekleyin
 
 ### 6. Botu Çalıştır
 
