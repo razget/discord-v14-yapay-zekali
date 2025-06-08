@@ -6,7 +6,7 @@
   },
   "api": {
     "cortexApiKey": "YOUR_CORTEX_API_KEY_HERE",
-    "baseUrl": "https://api.claude.gg/v1"
+    "baseUrl": "https://api.claude.gg/"
   },
   "settings": {
     "defaultModel": "gpt-4o-mini",
