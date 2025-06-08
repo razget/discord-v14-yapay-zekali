@@ -1,0 +1,30 @@
+{
+  "name": "discord-v14-yapay-zekali",
+  "version": "1.1.0",
+  "description": "CortexAPI entegrasyonu ile yapay zeka destekli Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "ai",
+    "cortex-api",
+    "slash-commands",
+    "chatgpt"
+  ],
+  "author": "razget",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "bot": {
+    "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+    "clientId": "YOUR_DISCORD_APPLICATION_ID_HERE",
+    "guildId": "YOUR_GUILD_ID_HERE"
+  },
+  "api": {
+    "cortexApiKey": "YOUR_CORTEX_API_KEY_HERE",
+    "baseUrl": "https://api.claude.gg/v1"
+  },
+  "settings": {
+    "defaultModel": "gpt-4o-mini",
+    "maxTokens": 2000,
+    "temperature": 0.7,
+    "timeout": 30000
+  }
+}
