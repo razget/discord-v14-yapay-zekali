@@ -11,7 +11,7 @@ Claude 4 Opus Kullanılarak Hazırlandı.
 ## 🌟 Özellikler
 
 - ✅ **Discord v14 Slash Komutları** - Modern Discord bot API desteği
-- 🧠 **Çoklu AI Model Desteği** - GPT-4o, GPT-3.5, Claude 3 ve daha fazlası
+- 🧠 **Çoklu AI Model Desteği** - GPT-4o, GPT-3.5, Gemini, Grok 3 ve daha fazlası
 - ⚡ **Hızlı Yanıt Süreleri** - Optimize edilmiş API entegrasyonu
 - 🔒 **Güvenli** - JSON konfigürasyonu ile API anahtarı koruması
 - 📊 **Detaylı Hata Yönetimi** - Kapsamlı error handling
