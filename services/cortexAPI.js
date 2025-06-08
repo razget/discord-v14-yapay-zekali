@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 class CortexAPI {
-    constructor(apiKey, baseURL = 'https://api.claude.gg/v1', settings = {}) {
+    constructor(apiKey, baseURL = 'https://api.claude.gg/', settings = {}) {
         this.apiKey = apiKey;
         this.baseURL = baseURL;
         this.settings = {
@@ -29,7 +29,7 @@ class CortexAPI {
      */
     async chat(message, model = 'gpt-4o-mini') {
         try {
-            const response = await this.client.post('/chat/completions', {
+            const response = await this.client.post('v1/chat/completions', {
                 model: model,
                 messages: [
                     {
